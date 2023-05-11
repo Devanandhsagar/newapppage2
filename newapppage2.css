@@ -1,0 +1,26 @@
+
+.topic_container {
+    margin: 10px;
+    margin-left: 30vh;
+    height: 10vh;
+    color: white;
+    background-color: grey;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 6px;
+    margin-left: 42%;
+}
+
+.heading_ages {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 8vh;
+}
+
+.button {
+    border-radius: 3px;
+    background-color: lightblue;
+}
